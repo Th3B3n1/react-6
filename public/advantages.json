@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Rugalmasság",
+        "description": "Az autodidakta tanulás lehetővé teszi a saját időbeosztás kialakítását."
+    },
+    {
+        "id": 2,
+        "name": "Önállóság",
+        "description": "Fejleszti az önálló döntéshozatalt és problémamegoldást."
+    },
+    {
+        "id": 3,
+        "name": "Kreativitás",
+        "description": "Bátorítja a kreatív gondolkodást és az új ötletek kipróbálását."
+    },
+    {
+        "id": 4,
+        "name": "Önfejlesztés",
+        "description": "Folyamatosan bővíthető tudás és új készségek elsajátítása."
+    },
+    {
+        "id": 5,
+        "name": "Költséghatékonyság",
+        "description": "Nem igényel drága tanfolyamokat, egyéni tanulási anyagokat használhat."
+    }
+]
